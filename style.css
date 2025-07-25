@@ -1,5 +1,5 @@
 html{
-  cursor: url(images/material-birthday-cake-pointer.png) 0 0,auto;
+  cursor: url(images/birthday_cursor_arrow_01-removebg-preview.png) 0 0,auto;
   
 }
 
@@ -89,7 +89,7 @@ html{
   border: calc(2em/4*2/2*4/2/2*2/2/2*2*2/2) solid pink;
   border-radius: 10%;
   box-shadow: 6px 8px 32px rgb(38, 9, 54);
-  background-image: url(images/giftCovermage_pink.png);
+  background-image: url(images/giftCovermage_pink_light.png);
   background-size: cover;
 }
 
@@ -99,22 +99,27 @@ html{
 }
 
 #giftCard01:hover {
+  cursor: url(images/birthday_cursor_hand_02-removebg-preview.png) 0 0,auto;
   background-image: url(images/happy.gif);
   background-size: cover;
 }
 #giftCard02:hover {
+  cursor: url(images/birthday_cursor_hand_02-removebg-preview.png) 0 0,auto;
   background-image: url(images/hot.gif);
   background-size: cover;
 }
 #giftCard03:hover {
+  cursor: url(images/birthday_cursor_hand_02-removebg-preview.png) 0 0,auto;
   background-image: url(images/genius.gif);
   background-size: cover;
 }
 #giftCard04:hover {
+  cursor: url(images/birthday_cursor_hand_02-removebg-preview.png) 0 0,auto;
   background-image: url(images/badass.gif);
   background-size: cover;
 }
 #giftCard05:hover {
+  cursor: url(images/birthday_cursor_hand_02-removebg-preview.png) 0 0,auto;
   background-image: url(images/cheers.gif);
   background-size: cover;
 }
