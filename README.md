@@ -1,2 +1,2 @@
 Scrimba Project | Birthday Gift Card
-Live Link: "https://scrimba-project-birthday-gift-card.netlify.app/"
+Live Link: "https://birthday-gift-card-scrimba-project.netlify.app"
